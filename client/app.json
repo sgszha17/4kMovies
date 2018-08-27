@@ -1,0 +1,20 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/moviesDetail/moviesDetail",
+    "pages/moviesList/moviesList",
+    "pages/profile/profile",
+    "pages/reviewList/reviewList",
+    "pages/reviewDetail/reviewDetail",
+    "pages/reviewEdit/reviewEdit",
+    "pages/reviewReviewing/reviewReviewing"
+  ],
+  "window":{
+    "backgroundColor":"#F6F6F6",
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#F6F6F6",
+    "navigationBarTitleText": "Wafer Quick Start",
+    "navigationBarTextStyle":"black"
+  }
+  
+}

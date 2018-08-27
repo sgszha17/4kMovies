@@ -1,0 +1,27 @@
+<!--index.wxml-->
+<view class="container">
+   <image class="poster" src='/image/testPoster.jpg'></image>
+   <view class="text">
+    <view class="movieTitle">Black Panther</view>
+    <view class="userInformation">
+      <image class="profilePhoto" src=""></image>
+      <view class="userName">abc</view>
+      <view class="m">给你推荐了一部电影</view>
+    </view>
+   </view>
+   <view class="navi">
+    <view class="naviWrapper">
+      <navigator class="naviItem">
+        <image class="naviItemImage"></image>
+        <view class="content">热门</view>
+      </navigator>
+    </view>
+    <view class="naviWrapper">
+      
+      <navigator class="naviItem">
+        <image class="naviItemImage"></image>
+        <view class="content">我的</view>
+      </navigator>
+    </view>
+   </view>
+</view>

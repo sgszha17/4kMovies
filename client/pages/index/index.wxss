@@ -1,0 +1,60 @@
+/**index.wxss**/
+.container{
+  align-content: center;
+}
+.poster{
+height: 800rpx;
+width: 500rpx;
+}
+
+.userInformation{
+  margin-top: 20rpx;
+  display: flex;
+  align-items: center;
+  font-size: 30rpx;
+}
+.movieTitle{
+  text-align: center;
+}
+.profilePhoto{
+  border-radius: 500px;
+  width: 100rpx;
+  height: 100rpx;
+  box-shadow: 2px 1px 1px #cccccc;
+  margin-right: 20rpx;
+}
+.navi{
+  display: flex;
+  border-top: solid;
+  position:fixed;
+  height:130rpx;
+  width: 100%;
+  text-align:center;
+  background-color:#efefef;
+  border-top:1px solid #CCC;
+  bottom:0rpx;
+  _position:absolute; 
+  
+}
+.naviItemImage{
+  height: 80rpx;
+  width: 80rpx;
+  background: wheat;
+}
+.naviWrapper{
+  align-content: center;
+  font-size: 30rpx;
+  color: #cccccc;
+  /* border: 1rpx solid silver; */
+  width:50%;
+  
+}
+.naviItem{
+  align-content: center;
+
+  height: 130rpx;
+}
+.content{
+  bottom:0rpx;
+
+}
